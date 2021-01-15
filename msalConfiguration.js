@@ -197,6 +197,7 @@ export const userAzureGraph = async (accessToken) => {
 }
 
 
+// ####################### Additonal Integration Example with Power BI Service #######################
 // BI GRAPHs Endpoint
 const BI_TOKEN_API = "https://api.powerbi.com/v1.0/myorg/GenerateToken"
 

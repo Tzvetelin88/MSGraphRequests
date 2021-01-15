@@ -1,4 +1,3 @@
-
 import {
     signIn,
     signOut,
@@ -11,7 +10,7 @@ import {
     loginScope,
     photoScope,
     loginScopeBI
-} from '../msal/scopeConfig';
+} from './scopeConfig';
 
 
 export function* authUser() {
