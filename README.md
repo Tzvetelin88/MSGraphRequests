@@ -1,5 +1,6 @@
-# MSGraphRequests
-Async way to get data from Microsoft Graph with Axios. Names, Pictures, Emails etc.
+# MSGraphRequests - Initialize MSAL.js 2.x apps
+Async way to get data from Microsoft Graph with Fetch.
+Get Names, Pictures, Emails, Integrate with other services like Power BI, etc.
 1. Register Azure Application Registration - follow simple steps in "Azure_Application_Registration".
    Read More here: https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app
 
